@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アンチ・ハレーション",
+  "base_artist": "至福ぽんちょ",
+  "createdAt": "2025-12-03T00:42:46.873434Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンチ・ハレーション",
+      "artist": "至福ぽんちょ",
+      "has_synced": false,
+      "path": "select/pl_01_アンチ・ハレーション_至福ぽんちょ.txt"
+    }
+  ]
+}
